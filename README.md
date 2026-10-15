@@ -7,6 +7,10 @@ Built with HTML, CSS, JavaScript, GSAP 3 and Locomotive Scroll 4 (static site, n
 ```bash
 python3 -m http.server 3000   # then open http://localhost:3000
 ```
+## Live Link
+```bash
+https://ameersubhan1.github.io/Portfolio/
+```
 
 ## Deploy
 Static site: drag the folder onto Netlify, or push to GitHub and enable GitHub Pages / Vercel.
